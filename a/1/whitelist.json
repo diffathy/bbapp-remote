@@ -400,5 +400,11 @@
     "store": "google",
     "orderId": "GPA.3337-3968-1545-07982",
     "approved": "2023-08-18T08:57:00.000Z"
+  },
+  "Oe5qxnt9DL8sdX8RrLDH": {
+    "type": 1,
+    "store": "apple",
+    "orderId": "MSBS1GTKG2",
+    "approved": "2023-11-28T07:14:00.000Z"
   }
 }
