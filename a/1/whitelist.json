@@ -478,5 +478,11 @@
     "store": "apple",
     "orderId": "MLTSM903ZB",
     "approved": "2024-06-04T07:08:00.000Z"
+  },
+  "UlgqGVIMEA5Wb442EdnZ": {
+    "type": 1,
+    "store": "google",
+    "orderId": "GIFT",
+    "approved": "2024-06-04T14:26:00.000Z"
   }
 }
