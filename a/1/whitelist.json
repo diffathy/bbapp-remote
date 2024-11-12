@@ -514,5 +514,11 @@
     "store": "apple",
     "orderId": "MVL58MFKTY",
     "approved": "2024-08-14T07:33:00.000Z"
+  },
+  "NtoMUCgykbZrhFNDWYWz": {
+    "type": 1,
+    "store": "google",
+    "orderId": "GIFT",
+    "approved": "2024-11-12T04:43:00.000Z"
   }
 }
