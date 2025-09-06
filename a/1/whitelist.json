@@ -568,5 +568,11 @@
     "store": "google",
     "orderId": "GIFT",
     "approved": "2025-06-23T14:31:00.000Z"
+  },
+  "FXSy1ABLHvb8p1y9Mc6R": {
+    "type": 1,
+    "store": "apple",
+    "orderId": "GIFT",
+    "approved": "2025-09-06T09:06:00.000Z"
   }
 }
