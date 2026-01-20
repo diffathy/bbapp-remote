@@ -598,5 +598,11 @@
     "store": "google",
     "orderId": "GIFT",
     "approved": "2025-12-03T04:51:00.000Z"
+  },
+  "GwZYqoQ3g7Ctl3OKRgi9": {
+    "type": 1,
+    "store": "apple",
+    "orderId": "GIFT",
+    "approved": "2026-01-20T14:00:00.000Z"
   }
 }
